@@ -22,7 +22,7 @@
              */
 
 
-            #region Exercise 1:
+            #region Exercise 1
             //List<int> grades = [85, 92, 78, 95, 88, 70, 100, 65];
 
 
@@ -67,6 +67,49 @@
 
 
             #endregion
+
+            #region Exercise 2
+            //SortedList<int, string> leaderboard = new SortedList<int, string>()
+            //{
+
+            //    {500, "Ahmed"},
+            //    {200, "Sara"},
+            //    {800, "Ali"},
+            //    {350, "Mona"}
+
+            //};
+
+            //foreach (var item in leaderboard)
+            //{
+            //    Console.WriteLine($"{item.Key} : {item.Value}");
+
+            //}
+
+            //Console.WriteLine($"First Score: {leaderboard.Keys[0]}");
+
+            //Console.WriteLine($"First Player: {leaderboard.Values[0]}");
+
+            //Console.WriteLine(leaderboard.ContainsKey(500));
+
+            //if (leaderboard.TryGetValue(999, out string player))
+            //    Console.WriteLine(player);
+            //else
+            //    Console.WriteLine("Score not found");
+
+
+            //leaderboard.Remove(200);
+
+            //Console.WriteLine("Updated leaderboard:");
+
+            //foreach (var entry in leaderboard)
+            //{
+
+            //    Console.WriteLine($"{entry.Key} : {entry.Value}");
+
+            //}
+
+            #endregion
+
 
 
 
