@@ -111,7 +111,47 @@
             #endregion
 
 
+            #region Exercise 3
+            //Dictionary<string, string> phoneBook = new ()
+            //{
+            //    {"Ahmed", "0100"},
+            //    {"Sara", "0101"},
+            //    {"Ali", "0102"},
+            //    {"Mona", "0103"}
+            //};
 
+
+            //phoneBook["Omar"] = "0104";
+
+
+            //bool added01 = phoneBook.TryAdd("Ahmed", "9999");
+
+            //Console.WriteLine($"Added successfully? {added01}");
+
+
+            //bool added02 = phoneBook.TryAdd("Ahmed", "9999");
+
+            //Console.WriteLine($"TryAdd success: {added02}");
+
+
+            //Console.WriteLine(phoneBook.ContainsKey("Khaled"));
+
+
+            //string number = phoneBook.GetValueOrDefault("Khaled", "Not Found");
+
+            //Console.WriteLine(number);
+
+
+            //Console.WriteLine("Names:");
+
+            //Console.WriteLine(string.Join(" ", phoneBook.Keys));
+
+            //Console.WriteLine("Numbers:");
+
+            //Console.WriteLine(string.Join(" ", phoneBook.Values));
+
+
+            #endregion
 
 
 
