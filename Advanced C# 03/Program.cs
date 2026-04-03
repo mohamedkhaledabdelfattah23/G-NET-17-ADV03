@@ -235,6 +235,39 @@
             #endregion
 
 
+            #region Exercise 6
+            //Stack<string> history = new Stack<string>();
+
+            //history.Push("google.com");
+            //history.Push("github.com");
+            //history.Push("stackoverflow.com");
+            //history.Push("youtube.com");
+            //history.Push("claude.ai");
+
+
+            //Console.WriteLine($"Current Page: {history.Peek()}");
+
+
+            //for (int i = 0; i < 3; i++)
+            //{
+
+            //    Console.WriteLine($"Leaving: {history.Pop()}");
+
+            //}
+
+
+            //Console.WriteLine($"Current Page Now: {history.Peek()}");
+
+
+            //history.Clear();
+
+            //bool popped = history.TryPop(out string page);
+
+
+            //Console.WriteLine($"TryPop success: {popped}"); 
+            #endregion
+
+
         }
     }
 }
