@@ -196,6 +196,44 @@
             #endregion
 
 
+            #region Exercise 5
+            //Queue<string> printQueue = new Queue<string>();
+
+            //printQueue.Enqueue("Report.pdf");
+            //printQueue.Enqueue("Invoice.pdf");
+            //printQueue.Enqueue("Letter.docx");
+            //printQueue.Enqueue("Resume.pdf");
+            //printQueue.Enqueue("Photo.jpg");
+
+
+            //Console.WriteLine("Queue:");
+            //foreach (var doc in printQueue)
+            //{
+
+            //    Console.WriteLine(doc);
+
+            //}
+
+            //Console.WriteLine($"Count: {printQueue.Count}");
+
+
+            //Console.WriteLine($"Next document: {printQueue.Peek()}");
+
+
+            //while (printQueue.Count > 0)
+            //{
+
+            //    Console.WriteLine($"Printing: {printQueue.Dequeue()}");
+
+            //}
+
+
+            //bool result = printQueue.TryDequeue(out string file);
+
+            //Console.WriteLine($"TryDequeue success: {result}");
+
+            #endregion
+
 
         }
     }
